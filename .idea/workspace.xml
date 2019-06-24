@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd0dfc68-2589-488a-9b37-800386de8996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/bean/Analyzers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/bean/DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/bean/ElasticIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/bean/Mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/bean/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/bean/TypeMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/pool/ConfigManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/pool/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/pool/ESClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/pool/ESClientPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/pool/ESEnv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/pool/ESPoolInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/pool/PoolableUserFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/service/ElasticIndexService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elastic/service/impl/ElasticIndexServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/conf.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,8 +43,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-35" />
-    <option name="y" value="160" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1900" />
     <option name="height" value="1045" />
   </component>
@@ -117,16 +100,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561355728937</updated>
-      <workItem from="1561355730298" duration="359000" />
+      <workItem from="1561355730298" duration="1466000" />
     </task>
+    <task id="LOCAL-00001" summary="更新代码">
+      <created>1561356359791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561356359791</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="359000" />
+    <option name="totallyTimeSpent" value="1466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -160,6 +150,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新代码" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
